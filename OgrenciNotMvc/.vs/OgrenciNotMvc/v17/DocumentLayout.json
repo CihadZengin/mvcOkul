@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{262DACBA-4975-4DDA-80F9-2C8CDFF8D308}|OgrenciNotMvc\\OgrenciNotMvc.csproj|c:\\users\\mciha\\source\\repos\\ogrencinotmvc\\ogrencinotmvc\\views\\s\u0131navnotlar\u0131\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{262DACBA-4975-4DDA-80F9-2C8CDFF8D308}|OgrenciNotMvc\\OgrenciNotMvc.csproj|solutionrelative:ogrencinotmvc\\views\\s\u0131navnotlar\u0131\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262DACBA-4975-4DDA-80F9-2C8CDFF8D308}|OgrenciNotMvc\\OgrenciNotMvc.csproj|C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\ogrencinotmvc\\views\\s\u0131navnotlar\u0131\\notgetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{262DACBA-4975-4DDA-80F9-2C8CDFF8D308}|OgrenciNotMvc\\OgrenciNotMvc.csproj|solutionrelative:ogrencinotmvc\\views\\s\u0131navnotlar\u0131\\notgetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262DACBA-4975-4DDA-80F9-2C8CDFF8D308}|OgrenciNotMvc\\OgrenciNotMvc.csproj|C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\ogrencinotmvc\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{262DACBA-4975-4DDA-80F9-2C8CDFF8D308}|OgrenciNotMvc\\OgrenciNotMvc.csproj|solutionrelative:ogrencinotmvc\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262DACBA-4975-4DDA-80F9-2C8CDFF8D308}|OgrenciNotMvc\\OgrenciNotMvc.csproj|C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\ogrencinotmvc\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262DACBA-4975-4DDA-80F9-2C8CDFF8D308}|OgrenciNotMvc\\OgrenciNotMvc.csproj|solutionrelative:ogrencinotmvc\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262DACBA-4975-4DDA-80F9-2C8CDFF8D308}|OgrenciNotMvc\\OgrenciNotMvc.csproj|C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\ogrencinotmvc\\views\\ogrenci\\yeniogrenci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{262DACBA-4975-4DDA-80F9-2C8CDFF8D308}|OgrenciNotMvc\\OgrenciNotMvc.csproj|solutionrelative:ogrencinotmvc\\views\\ogrenci\\yeniogrenci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262DACBA-4975-4DDA-80F9-2C8CDFF8D308}|OgrenciNotMvc\\OgrenciNotMvc.csproj|C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\ogrencinotmvc\\views\\ogrenci\\ogrencigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{262DACBA-4975-4DDA-80F9-2C8CDFF8D308}|OgrenciNotMvc\\OgrenciNotMvc.csproj|solutionrelative:ogrencinotmvc\\views\\ogrenci\\ogrencigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\S\u0131navNotlar\u0131\\NotGetir.cshtml",
+              "RelativeDocumentMoniker": "OgrenciNotMvc\\Views\\S\u0131navNotlar\u0131\\NotGetir.cshtml",
+              "ToolTip": "C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\S\u0131navNotlar\u0131\\NotGetir.cshtml",
+              "RelativeToolTip": "OgrenciNotMvc\\Views\\S\u0131navNotlar\u0131\\NotGetir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T21:09:52.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\S\u0131navNotlar\u0131\\Index.cshtml",
+              "RelativeDocumentMoniker": "OgrenciNotMvc\\Views\\S\u0131navNotlar\u0131\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\S\u0131navNotlar\u0131\\Index.cshtml",
+              "RelativeToolTip": "OgrenciNotMvc\\Views\\S\u0131navNotlar\u0131\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T21:08:08.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OgrenciGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Ogrenci\\OgrenciGetir.cshtml",
+              "RelativeDocumentMoniker": "OgrenciNotMvc\\Views\\Ogrenci\\OgrenciGetir.cshtml",
+              "ToolTip": "C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Ogrenci\\OgrenciGetir.cshtml",
+              "RelativeToolTip": "OgrenciNotMvc\\Views\\Ogrenci\\OgrenciGetir.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T15:33:24.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YeniOgrenci.cshtml",
+              "DocumentMoniker": "C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Ogrenci\\YeniOgrenci.cshtml",
+              "RelativeDocumentMoniker": "OgrenciNotMvc\\Views\\Ogrenci\\YeniOgrenci.cshtml",
+              "ToolTip": "C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Ogrenci\\YeniOgrenci.cshtml",
+              "RelativeToolTip": "OgrenciNotMvc\\Views\\Ogrenci\\YeniOgrenci.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T15:32:54.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OgrenciController.cs",
+              "DocumentMoniker": "C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\OgrenciNotMvc\\Controllers\\OgrenciController.cs",
+              "RelativeDocumentMoniker": "OgrenciNotMvc\\Controllers\\OgrenciController.cs",
+              "ToolTip": "C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\OgrenciNotMvc\\Controllers\\OgrenciController.cs",
+              "RelativeToolTip": "OgrenciNotMvc\\Controllers\\OgrenciController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA9wD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:31:03.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeDocumentMoniker": "OgrenciNotMvc\\Views\\Ogrenci\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mciha\\source\\repos\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeToolTip": "OgrenciNotMvc\\Views\\Ogrenci\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T15:24:32.721Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
